@@ -21,7 +21,7 @@ export default {
     return {
       sources: {
         [MainSource.id]: MainSource,
-        [CollectionSource.id]: CollectionSource
+        [CollectionSource.id]: CollectionSource,
       },
       source: MainSource,
       tag: MainSource.defaultTag,
