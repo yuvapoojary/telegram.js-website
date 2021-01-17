@@ -48,7 +48,6 @@ client.login('token');</code></pre>
           </ul>
         </p>
       </div>
-      
       <div class="info-item">
         <h2>Statistics</h2>
         <p>
@@ -56,7 +55,6 @@ client.login('token');</code></pre>
         </p>
         <p class="center">...and growing!</p>
       </div>
-
       <div class="full-info-item">
         <router-link to="/docs" class="big-ass-btn">Get started</router-link>
         <a href="https://discord.gg/ATrxZrT" class="big-ass-btn discord">Discord</a>
