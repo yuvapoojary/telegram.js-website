@@ -4,16 +4,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/telegram.js-website/CNAME"
   },
   {
-    "revision": "f8e82139bc4b4eac6a84",
+    "revision": "f684155e63aa9addb954",
     "url": "/telegram.js-website/css/app.5cd22a7f.css"
   },
   {
-    "revision": "1930eb374dde7c94d7d3c7247f126a04",
+    "revision": "2b09a35266f8748ac6fcf8fb7952a108",
     "url": "/telegram.js-website/index.html"
   },
   {
-    "revision": "f8e82139bc4b4eac6a84",
-    "url": "/telegram.js-website/js/app.deb2c8df.js"
+    "revision": "f684155e63aa9addb954",
+    "url": "/telegram.js-website/js/app.49ee30ea.js"
   },
   {
     "revision": "ddb0c50be8fbcb13927c",
@@ -24,20 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/telegram.js-website/manifest.json"
   },
   {
-    "revision": "fab31977ba8102adc6f9822662a5e124",
-    "url": "/telegram.js-website/static/attachment-example1.png"
-  },
-  {
-    "revision": "298353b3142138da7d37b4b58dc2eeef",
-    "url": "/telegram.js-website/static/attachment-example2.png"
-  },
-  {
-    "revision": "d951ccfc8f52a2d9535c710e77aae07d",
-    "url": "/telegram.js-website/static/attachment-example3.png"
-  },
-  {
-    "revision": "1cb51d324df4c8bb839867d3901015fe",
-    "url": "/telegram.js-website/static/ban-example.png"
+    "revision": "65e89cefa39a228e6d2b59eef0ea6a14",
+    "url": "/telegram.js-website/static/20210121_211656 (1).svg"
   },
   {
     "revision": "f86efccd5b81b6a1c7cb4fe8e64e76a7",
@@ -116,15 +104,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/telegram.js-website/static/icons/safari-pinned-tab.svg"
   },
   {
-    "revision": "e11ecc9bc9f9b92b3b7fc0e2e7235b6b",
-    "url": "/telegram.js-website/static/kick-example.png"
-  },
-  {
-    "revision": "1787600aa6afb88ce9ec7f0bf847b854",
+    "revision": "d51f90cca056fe1d7063d6f82d7f54da",
     "url": "/telegram.js-website/static/logo-square.png"
-  },
-  {
-    "revision": "13c0e5a64e6f5387c6ce5a1790b71b52",
-    "url": "/telegram.js-website/static/logo.svg"
   }
 ]);
