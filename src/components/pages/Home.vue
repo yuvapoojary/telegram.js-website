@@ -64,7 +64,7 @@ export default {
   name: 'home',
   props: ['konami'],
   components: {
-    Logo
+    Logo,
   },
 
   mounted() {
