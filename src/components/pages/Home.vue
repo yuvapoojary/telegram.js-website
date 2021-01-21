@@ -1,7 +1,7 @@
 <template>
   <div id="home">
     <slide id="jumbotron">
-      <logo :light="true" :konami="konami" id="logo" />
+      <img src="@/assets/logo.png"
       <code>npm install telegram.js</code><br />
     </slide>
 
@@ -24,7 +24,7 @@
 const client = new Telegram.Client();
 
 client.on('ready', () => {
-  console.log(`Logged in as ${client.user.username!`);
+  console.log(`Logged in as ${client.user.username}!`);
 });
 
 client.on('message', msg => {
@@ -48,13 +48,6 @@ client.login('token');</code></pre>
           </ul>
         </p>
       </div>
-      <div class="info-item">
-        <h2>Statistics</h2>
-        <p>
-          <stats />
-        </p>
-        <p class="center">...and growing!</p>
-      </div>
       <div class="full-info-item">
         <router-link to="/docs" class="big-ass-btn">Get started</router-link>
         <a href="https://discord.gg/ATrxZrT" class="big-ass-btn discord">Discord</a>
@@ -65,7 +58,6 @@ client.login('token');</code></pre>
 
 <script>
 import Logo from '../Logo.vue';
-import Stats from '../Stats.vue';
 import MainSource from '../../data/MainSource';
 
 export default {
