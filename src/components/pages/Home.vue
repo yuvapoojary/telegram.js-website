@@ -1,7 +1,7 @@
 <template>
   <div id="home">
     <slide id="jumbotron">
-      <img src="@/assets/logo.png" height="20%" width="20%" />
+      <logo :light="true" :konami="konami" id="logo" />
       <code>npm install telegram.js</code><br />
     </slide>
 
@@ -57,12 +57,14 @@ client.login('token');</code></pre>
 </template>
 
 <script>
+import Logo from '../Logo.vue';
 import MainSource from '../../data/MainSource';
 
 export default {
   name: 'home',
   props: ['konami'],
   components: {
+    Logo
   },
 
   mounted() {
