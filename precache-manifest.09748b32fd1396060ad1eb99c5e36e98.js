@@ -4,20 +4,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/telegram.js-website/CNAME"
   },
   {
-    "revision": "f684155e63aa9addb954",
+    "revision": "3fd3c46d3f91aa0f1e4b",
     "url": "/telegram.js-website/css/app.5cd22a7f.css"
   },
   {
-    "revision": "2b09a35266f8748ac6fcf8fb7952a108",
+    "revision": "1eb2fc91592a4c7748b4d0cacfa289bf",
+    "url": "/telegram.js-website/img/logo.1eb2fc91.png"
+  },
+  {
+    "revision": "44b5461df442538a8a38c3777d71ceee",
     "url": "/telegram.js-website/index.html"
   },
   {
-    "revision": "f684155e63aa9addb954",
-    "url": "/telegram.js-website/js/app.49ee30ea.js"
+    "revision": "3fd3c46d3f91aa0f1e4b",
+    "url": "/telegram.js-website/js/app.5fd693b2.js"
   },
   {
-    "revision": "ddb0c50be8fbcb13927c",
-    "url": "/telegram.js-website/js/chunk-vendors.0c4e4d11.js"
+    "revision": "c1fef0d6afac42f7b3d4",
+    "url": "/telegram.js-website/js/chunk-vendors.02891147.js"
   },
   {
     "revision": "fc062ac436a952e7b75d5d9236971db4",
