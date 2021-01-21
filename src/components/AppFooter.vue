@@ -20,7 +20,6 @@
 </template>
 
 <script>
-import Stats from './Stats.vue';
 
 export default {
   name: 'djs-footer',
