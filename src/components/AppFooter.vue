@@ -3,7 +3,8 @@
     <container>
       <strong><router-link to="/">telegram.js</router-link></strong>
       <p>A powerful library for interacting with the Telegram Bot API</p>
-      <stats />
+      <b>Website originally created by <a href="https://discord.js.org">Discord.js</a></b>
+      <b>Logo by <a href="https://www.instagram.com/aman_editz14?r=nametag">aman_editz</a></b>
       <a href="" id="dark-mode-link" @click="toggleDarkMode">
         <em class="fa" :class="darkMode ? 'fa-sun-o' : 'fa-moon-o'"></em>
         Turn {{ darkMode ? 'on' : 'off' }} the lights
@@ -25,7 +26,6 @@ export default {
   name: 'djs-footer',
   props: ['darkMode'],
   components: {
-    Stats,
   },
 
   data() {
