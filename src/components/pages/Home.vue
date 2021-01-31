@@ -2,7 +2,7 @@
   <div id="home">
     <slide id="jumbotron">
       <logo :light="true" :konami="konami" id="logo" />
-      <code>npm install telegram.js</code><br />
+      <code>npm install @yuva1422/telegram.js</code><br />
     </slide>
 
     <section id="info">
@@ -20,7 +20,7 @@
 
       <div class="info-item">
         <h2>Example</h2>
-        <pre><code class="javascript" v-hljs>const Telegram = require('telegram.js');
+        <pre><code class="javascript" v-hljs>const Telegram = require('@yuva1422/telegram.js');
 const client = new Telegram.Client();
 
 client.on('ready', () => {
@@ -33,7 +33,8 @@ client.on('message', msg => {
   }
 });
 
-client.login('token');</code></pre>
+client.login('token');
+client.startPolling();</code></pre>
       </div>
 
       <div class="info-item">
