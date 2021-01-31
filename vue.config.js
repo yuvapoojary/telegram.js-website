@@ -1,7 +1,6 @@
 const webpack = require('webpack');
 
 module.exports = {
-  publicPath: '/telegram.js-website/',
   configureWebpack: () => ({
     plugins: [
       new webpack.DefinePlugin({
