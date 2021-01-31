@@ -34,6 +34,7 @@ client.on('message', msg => {
 });
 
 client.login('token');
+
 client.startPolling();</code></pre>
       </div>
 
