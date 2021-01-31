@@ -6,7 +6,7 @@
       <nav>
         <router-link to="/docs">Documentation</router-link><!--
         --><a :href="`https://github.com/${repository}`">GitHub</a><!--
-        --><a >Guide</a>
+        -->
       </nav>
     </container>
   </header>
