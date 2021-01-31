@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/telegram.js-website/CNAME"
   },
   {
-    "revision": "3c68c588cc449c836178",
+    "revision": "8e1ccc83914405599d75",
     "url": "/telegram.js-website/css/app.5cd22a7f.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/telegram.js-website/img/logo.c274edc0.png"
   },
   {
-    "revision": "c7a9e136b4abd14f31d0dd3958b1d722",
+    "revision": "ccf91e50fb95370438378b19813cb0ae",
     "url": "/telegram.js-website/index.html"
   },
   {
-    "revision": "3c68c588cc449c836178",
-    "url": "/telegram.js-website/js/app.959c0a95.js"
+    "revision": "8e1ccc83914405599d75",
+    "url": "/telegram.js-website/js/app.67f31556.js"
   },
   {
     "revision": "c1fef0d6afac42f7b3d4",
