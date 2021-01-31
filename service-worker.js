@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/telegram.js-website/precache-manifest.72cab0603b7cb546ff89e2f47e5279e6.js"
+  "/telegram.js-website/precache-manifest.c372cdda95901ec8a0be154507afa934.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "telegram.js-website"});
